@@ -1,0 +1,104 @@
+{
+  "product": "Belgium Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-20T12:00:00",
+      "endDate": "2025-04-20T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "yellow",
+      "description": "Celebration of the resurrection of Jesus"
+    },
+    {
+      "title": "Labour Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-01T12:00:00",
+      "endDate": "2025-05-01T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "green",
+      "description": "Celebration of workers and labour movements"
+    },
+    {
+      "title": "Ascension Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-29T12:00:00",
+      "endDate": "2025-05-29T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of Jesus' ascension into heaven"
+    },
+    {
+      "title": "National Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-07-21T12:00:00",
+      "endDate": "2025-07-21T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "black",
+      "description": "Celebration of the Belgian National Day"
+    },
+    {
+      "title": "Assumption of Mary",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the Virgin Mary's assumption into heaven"
+    },
+    {
+      "title": "All Saints' Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-01T12:00:00",
+      "endDate": "2025-11-01T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of all the saints"
+    },
+    {
+      "title": "Armistice Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-11-11T12:00:00",
+      "endDate": "2025-11-11T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of the end of World War I"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Belgian Government",
+      "product": "Belgium Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
